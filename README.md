@@ -42,9 +42,8 @@ assets/template.html        page template (light/dark, copyable prompt blocks, S
 ## Install
 
 ```bash
-git clone <this repo> /tmp/event-review-src
 mkdir -p ~/.claude/skills
-cp -R /tmp/event-review-src/skills/event-review ~/.claude/skills/event-review
+git clone https://github.com/sonpiaz/event-review.git ~/.claude/skills/event-review
 python3 ~/.claude/skills/event-review/scripts/check_doc.py --help
 ```
 
