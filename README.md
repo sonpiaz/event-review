@@ -4,6 +4,10 @@ A Claude Code skill that turns talk recordings (or transcripts) plus slide photo
 
 Example output: https://homus.dev
 
+![A talk page: title, speaker, slide photo in place, jump list on the right](docs/example-talk.jpg)
+
+![Further down the same page: a diagram redrawn where the talk had no slide](docs/example-diagram.jpg)
+
 ## Pipeline
 
 ```
